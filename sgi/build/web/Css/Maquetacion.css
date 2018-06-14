@@ -1,0 +1,99 @@
+#fondo{
+        background: #f7f5f2;
+}
+#contenedor{
+        width: 1048px;
+        margin: 8px auto 0 auto;
+        background: #ffffff;
+}
+#cabecera{
+        background-color:#ffffff;
+        height: auto;
+        border:4px solid #f7f5f2;
+}
+#menu{
+        height: auto;
+        background-color:#ffffff;
+        float:left;
+        width:25%;
+        border:4px solid #f7f5f2;
+}
+#autenticacion{
+        height:50%;
+        background-color:#ffffff;
+        float:right;
+        width:99.4%;
+        border:4px solid #f7f5f2;
+        
+}
+#login{
+        height:50%;
+        width:30%;
+        background-color:#ffffff;
+        border:4px solid #f7f5f2;
+        margin: 60px auto auto auto;
+}
+#contenido{
+        height: 100%;
+        background-color:#ffffff;
+        float:right;
+        width:73.7%;
+        border:4px solid #f7f5f2;
+}
+#pie{
+        height:20%;
+        background-color:#ffffff;
+        clear:both;
+        border:4px solid #f7f5f2;
+}
+#datosPubli1{
+        height: 80%;
+        background-color: green;
+        float:left;
+        width:32.4%;
+        border:4px solid #111111;
+}
+#datosPubli2{
+        height: 80%;
+        background-color: green;
+        float:left;
+        width:32.5%;
+        border:4px solid #111111;
+        
+}
+#listaParticipantes{
+        height:auto;
+        width:auto;
+        border:4px solid #f7f5f2;
+        margin: 20px auto auto auto;
+}
+#datosPubli3{
+        height: 80%;
+        background-color: green;
+        float:right;
+        width:32.5%;
+        border:4px solid #111111;
+}
+#datosPubli4{
+        height: 10%;
+        background-color: green;
+        width:99.1%;
+        border:4px solid #111111;
+        clear: both;
+}
+.tablaLogin{
+    border:0; 
+    width: 100%;
+}
+.tablaMenu{
+    border:0; 
+    width: 100%;
+}
+td.tablaMenuTitulo{
+    color: white;
+    background-color: #BD6222;
+    height: 25;
+}
+a{
+    color: #00467F;
+}
